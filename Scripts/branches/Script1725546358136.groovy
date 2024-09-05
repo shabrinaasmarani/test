@@ -19,3 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.setAlertText('')
 
+WebUI.click(findTestObject(null))
+
+WebUI.uploadFile(findTestObject(null), '')
+
