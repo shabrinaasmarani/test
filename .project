@@ -35,6 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
+			<id>1725624019932</id>
 			<id>1725543723669</id>
 			<name></name>
 			<type>10</type>
@@ -44,6 +45,7 @@
 			</matcher>
 		</filter>
 		<filter>
+			<id>1725624019955</id>
 			<id>1725543723670</id>
 			<name></name>
 			<type>6</type>
@@ -83,10 +85,6 @@
 			<id>1725546661501</id>
 			<name></name>
 			<type>6</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
-			</matcher>
 		</filter>
 		<filter>
 			<id>1725547406786</id>
