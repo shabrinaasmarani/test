@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test-conflict</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>423e41ea-4916-4e0b-a2c7-df37d08824cb</testCaseGuid>
+</TestCaseEntity>
